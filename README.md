@@ -1,4 +1,6 @@
-# ChatGPT
+<p align="center">
+  <img src="docs/banner.svg" alt="ChatGPT — A native chat client for the OpenAI API, built on raw OkHttp." width="100%">
+</p>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![minSdk 24](https://img.shields.io/badge/minSdk_24-555)
 
